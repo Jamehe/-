@@ -1,0 +1,43 @@
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Common\bin\Debug\Common.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Common\bin\Debug\Common.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Common\obj\Debug\Common.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Common\obj\Debug\Common.pdb
+E:\HFQ备份\23wan3\hichoose\Common\bin\Debug\Common.dll
+E:\HFQ备份\23wan3\hichoose\Common\bin\Debug\Common.pdb
+E:\HFQ备份\23wan3\hichoose\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\HFQ备份\23wan3\hichoose\Common\obj\Debug\Common.dll
+E:\HFQ备份\23wan3\hichoose\Common\obj\Debug\Common.pdb
+D:\hichoose\Common\bin\Debug\Common.dll
+D:\hichoose\Common\bin\Debug\Common.pdb
+D:\hichoose\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\hichoose\Common\obj\Debug\Common.dll
+D:\hichoose\Common\obj\Debug\Common.pdb
+E:\项目\未分类\hichoose\Common\bin\Debug\Common.dll
+E:\项目\未分类\hichoose\Common\bin\Debug\Common.pdb
+E:\项目\未分类\hichoose\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\hichoose\Common\obj\Debug\Common.dll
+E:\项目\未分类\hichoose\Common\obj\Debug\Common.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\Common\bin\Debug\Common.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\Common\bin\Debug\Common.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\Common\obj\Debug\Common.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\Common\obj\Debug\Common.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\Common\bin\Debug\Common.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\Common\bin\Debug\Common.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\Common\obj\Debug\Common.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\Common\obj\Debug\Common.pdb
+F:\asp开发视频\SimpleMall\Common\bin\Debug\Common.dll
+F:\asp开发视频\SimpleMall\Common\bin\Debug\Common.pdb
+F:\asp开发视频\SimpleMall\Common\obj\Debug\Common.dll
+F:\asp开发视频\SimpleMall\Common\obj\Debug\Common.pdb
+F:\asp开发视频\SimpleMall\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\asp开发视频\SimpleMallV1.0版\Common\bin\Debug\Common.dll
+F:\asp开发视频\SimpleMallV1.0版\Common\bin\Debug\Common.pdb
+F:\asp开发视频\SimpleMallV1.0版\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\asp开发视频\SimpleMallV1.0版\Common\obj\Debug\Common.dll
+F:\asp开发视频\SimpleMallV1.0版\Common\obj\Debug\Common.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Common\bin\Debug\Common.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Common\bin\Debug\Common.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Common\obj\Debug\Common.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Common\obj\Debug\Common.pdb

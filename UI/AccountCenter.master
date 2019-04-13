@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/zt.master" AutoEventWireup="false" CodeFile="AccountCenter.master.cs" Inherits="AccountCenter" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <style type="text/css">
+    
+ .paginator { font: 11px Arial, Helvetica, sans-serif;padding:10px 20px 10px 0; margin: 0px;}
+.paginator a {padding: 1px 6px; border: solid 1px #ddd; background: #fff; text-decoration: none;margin-right:2px}
+.paginator a:visited {padding: 1px 6px; border: solid 1px #ddd; background: #fff; text-decoration: none;}
+.paginator .cpb {padding: 1px 6px;font-weight: bold; font-size: 13px;border:none}
+.paginator a:hover {color: #fff; background: #ffa501;border-color:#ffa501;text-decoration: none;}
+
+
+</style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <div class="user_left">     
+    <div class="left_menu">
+        <ul>
+          <li><a onfocus="this.blur()" href="ACIndex.aspx" class="now">管理员中心</a></li>
+          <li><a onfocus="this.blur()" href="PersonalInfo.aspx">用户信息管理</a></li>
+          <li><a onfocus="this.blur()" href="Order.aspx">商品清单</a></li>
+          <li><a onfocus="this.blur()" href="address.aspx">地址管理</a></li>
+          <li><a onfocus="this.blur()" href="collect.aspx">历史收藏</a></li>
+          <li>
+              <asp:LinkButton ID="LinkButton1" onfocus="this.blur()" runat="server" 
+                  onclick="LinkButton1_Click1">退出登陆状态</asp:LinkButton>
+        <%--  <asp:HyperLink ID="HyperLink1"    runat="server" NavigateUrl="~/index.aspx">退出登陆状态</asp:HyperLink>--%></li>
+          
+        </ul>
+    </div>
+</div>
+<div class="user_right">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</div>
+<div class="clear"></div>
+</a>
+</asp:Content>
+

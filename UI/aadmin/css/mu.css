@@ -1,0 +1,40 @@
+﻿body 
+{
+	font-size:12px;
+  	color:#000;
+   font-family:Verdana;
+}
+
+.menuParent
+{
+	}
+.menuParent a:link
+{ color:#000;
+  text-decoration:none;
+	}
+.menuParent a:hover
+{ color:#060;
+  text-decoration:underline;
+	}
+.menuParent a:visited
+{
+	 color:#000;
+  text-decoration:none;
+  }	
+.menuChild 
+{}
+.menuChild a
+{
+	color:#000;
+  text-decoration:none;
+	}
+.menuChild a:hover
+{
+	color:#036;
+  text-decoration:underline;
+	}
+.menuChild a:visited
+{
+	color:#000;
+  text-decoration:none;
+	}  

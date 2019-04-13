@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="admin/Default.aspx" title="校园淘后台管理系统"  description="校园淘后台管理系统">
+        <siteMapNode url="" title="管理员系统"  description="管理员系统" >
+          <siteMapNode url="admin/adminList.aspx" title="管理员列表"  description="管理员列表"/>
+          <siteMapNode url="admin/adminadd.aspx" title="管理员添加"  description="管理员添加"/>
+          <siteMapNode url="admin/adminupdate.aspx" title="管理员更新"  description="管理员更新"/>
+          <siteMapNode url="admin/adminselect.aspx" title="管理员搜索"  description="管理员搜索"/>
+        </siteMapNode>
+        <siteMapNode url="" title="资源下载系统"  description="资源下载系统" >
+          <siteMapNode url="admin/downloadlist.aspx" title="资源列表"  description="资源列表"/>
+          <siteMapNode url="admin/downloadadd.aspx" title="资源添加"  description="资源添加"/>
+          <siteMapNode url="admin/downloadupdate.aspx" title="资源更新"  description="资源更新"/>
+          <siteMapNode url="admin/downselect.aspx" title="资源搜索"  description="资源搜索"/>
+        </siteMapNode>
+        <siteMapNode url="" title="帮助系统"  description="帮助系统" >
+          <siteMapNode url="admin/helplist.aspx" title="帮助列表"  description="帮助列表"/>
+          <siteMapNode url="admin/helpadd.aspx" title="帮助添加"  description="帮助添加"/>
+          <siteMapNode url="admin/helpupdate.aspx" title="帮助更新"  description="帮助更新"/>
+          <siteMapNode url="admin/helpsearch.aspx" title="帮助搜索"  description="帮助搜索"/>
+        </siteMapNode>
+        <siteMapNode url="" title="帮助分类系统"  description="帮助分类系统" >
+          <siteMapNode url="admin/helpcatelist.aspx" title="帮助分类列表"  description="帮助分类列表"/>
+          <siteMapNode url="admin/helpcateadd.aspx" title="帮助分类添加"  description="帮助分类添加"/>
+          <siteMapNode url="admin/helpcateupdate.aspx" title="帮助分类更新"  description="帮助分类更新"/>    
+        </siteMapNode>
+        <siteMapNode url="" title="新闻系统"  description="新闻系统" >
+          <siteMapNode url="admin/newslist.aspx" title="新闻列表"  description="新闻列表"/>
+          <siteMapNode url="admin/newsadd.aspx" title="新闻添加"  description="新闻添加"/>
+          <siteMapNode url="admin/newsupdate.aspx" title="新闻更新"  description="新闻更新"/>
+          <siteMapNode url="admin/newsselect.aspx" title="新闻搜索"  description="新闻搜索"/>
+        </siteMapNode>
+        <siteMapNode url="" title="新闻分类系统"  description="新闻分类系统" >
+          <siteMapNode url="admin/newscate.aspx" title="新闻分类列表"  description="新闻分类列表"/>
+          <siteMapNode url="admin/newscateadd.aspx" title="新闻分类添加"  description="新闻分类添加"/>
+          <siteMapNode url="admin/newscateupdate.aspx" title="新闻分类更新"  description="新闻分类更新"/>
+        </siteMapNode>
+        <siteMapNode url="" title="订单系统"  description="订单系统" >
+          <siteMapNode url="admin/orderselect.aspx" title="订单列表"  description="订单列表"/>
+          <siteMapNode url="admin/orderdetail.aspx" title="订单信息"  description="订单信息"/>
+          <siteMapNode url="admin/orderupdate.aspx" title="订单更新"  description="订单更新"/>          
+        </siteMapNode>
+        <siteMapNode url="" title="会员系统"  description="会员系统" >
+          <siteMapNode url="admin/userselect.aspx" title="会员列表"  description="会员列表"/>
+          <siteMapNode url="admin/usershow.aspx" title="会员信息"  description="会员信息"/>      
+        </siteMapNode>
+      <siteMapNode url="" title="产品系统"  description="产品系统" >
+        <siteMapNode url="admin/proselect.aspx" title="产品列表"  description="产品列表"/>
+        <siteMapNode url="admin/proadd.aspx" title="产品添加"  description="产品添加"/>
+        <siteMapNode url="admin/procatelist.aspx" title="产品分类列表"  description="产品分类列表"/>
+        <siteMapNode url="admin/procateadd.aspx" title="产品分类添加"  description="产品分类添加"/>
+        <siteMapNode url="admin/fathercateadd.aspx" title="产品父类添加"  description="产品父类添加"/>
+        <siteMapNode url="admin/fatherlist.aspx" title="产品父类列表"  description="产品父类列表"/>
+        <siteMapNode url="admin/proupdate.aspx" title="产品更新"  description="产品更新"/>
+        <siteMapNode url="admin/proimageselect.aspx" title="图片列表"  description="图片列表"/>
+        <siteMapNode url="admin/proimageupdate.aspx" title="图片更新"  description="图片更新"/>
+
+      </siteMapNode>
+      
+      
+    </siteMapNode>
+</siteMap>

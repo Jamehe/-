@@ -1,0 +1,119 @@
+D:\hichoose\hichoose\BLL\bin\Debug\BLL.dll
+D:\hichoose\hichoose\BLL\bin\Debug\BLL.pdb
+D:\hichoose\hichoose\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\hichoose\hichoose\BLL\obj\Debug\BLL.dll
+D:\hichoose\hichoose\BLL\obj\Debug\BLL.pdb
+D:\hichoose\hichoose\BLL\bin\Debug\DAL.dll
+D:\hichoose\hichoose\BLL\bin\Debug\Model.dll
+D:\hichoose\hichoose\BLL\bin\Debug\Model.pdb
+D:\hichoose\hichoose\BLL\bin\Debug\DAL.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\BLL.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\BLL.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\DAL.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\Model.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\Common.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\Model.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\Common.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\bin\Debug\DAL.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\obj\Debug\BLL.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\BLL\obj\Debug\BLL.pdb
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\BLL.dll
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\BLL.pdb
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\DAL.dll
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\Model.dll
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\Common.dll
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\Model.pdb
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\Common.pdb
+E:\HFQ备份\23wan3\hichoose\BLL\bin\Debug\DAL.pdb
+E:\HFQ备份\23wan3\hichoose\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\HFQ备份\23wan3\hichoose\BLL\obj\Debug\BLL.dll
+E:\HFQ备份\23wan3\hichoose\BLL\obj\Debug\BLL.pdb
+D:\hichoose\BLL\bin\Debug\BLL.dll
+D:\hichoose\BLL\bin\Debug\BLL.pdb
+D:\hichoose\BLL\bin\Debug\DAL.dll
+D:\hichoose\BLL\bin\Debug\Model.dll
+D:\hichoose\BLL\bin\Debug\Common.dll
+D:\hichoose\BLL\bin\Debug\Model.pdb
+D:\hichoose\BLL\bin\Debug\Common.pdb
+D:\hichoose\BLL\bin\Debug\DAL.pdb
+D:\hichoose\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\hichoose\BLL\obj\Debug\BLL.dll
+D:\hichoose\BLL\obj\Debug\BLL.pdb
+E:\项目\未分类\hichoose\BLL\bin\Debug\BLL.dll
+E:\项目\未分类\hichoose\BLL\bin\Debug\BLL.pdb
+E:\项目\未分类\hichoose\BLL\bin\Debug\DAL.dll
+E:\项目\未分类\hichoose\BLL\bin\Debug\Model.dll
+E:\项目\未分类\hichoose\BLL\bin\Debug\Common.dll
+E:\项目\未分类\hichoose\BLL\bin\Debug\Model.pdb
+E:\项目\未分类\hichoose\BLL\bin\Debug\Common.pdb
+E:\项目\未分类\hichoose\BLL\bin\Debug\DAL.pdb
+E:\项目\未分类\hichoose\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\hichoose\BLL\obj\Debug\BLL.dll
+E:\项目\未分类\hichoose\BLL\obj\Debug\BLL.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\BLL.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\BLL.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\DAL.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\Model.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\Common.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\DAL.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\Model.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\bin\Debug\Common.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\obj\Debug\BLL.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\BLL\obj\Debug\BLL.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\BLL.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\BLL.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\DAL.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\Model.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\Common.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\DAL.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\Model.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\bin\Debug\Common.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\obj\Debug\BLL.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\BLL\obj\Debug\BLL.pdb
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\BLL.dll
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\BLL.pdb
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\DAL.dll
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\Model.dll
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\Common.dll
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\DAL.pdb
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\Model.pdb
+F:\asp开发视频\SimpleMall\BLL\bin\Debug\Common.pdb
+F:\asp开发视频\SimpleMall\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\asp开发视频\SimpleMall\BLL\obj\Debug\BLL.dll
+F:\asp开发视频\SimpleMall\BLL\obj\Debug\BLL.pdb
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\BLL.dll
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\BLL.pdb
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\DAL.dll
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\Model.dll
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\Common.dll
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\DAL.pdb
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\Model.pdb
+F:\asp开发视频\SimpleMallV1.0版\BLL\bin\Debug\Common.pdb
+F:\asp开发视频\SimpleMallV1.0版\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\asp开发视频\SimpleMallV1.0版\BLL\obj\Debug\BLL.dll
+F:\asp开发视频\SimpleMallV1.0版\BLL\obj\Debug\BLL.pdb
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\BLL.dll
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\BLL.pdb
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\DAL.dll
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\Model.dll
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\Common.dll
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\DAL.pdb
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\Model.pdb
+F:\asp开发视频\XYTMallV1.0版\BLL\bin\Debug\Common.pdb
+F:\asp开发视频\XYTMallV1.0版\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\asp开发视频\XYTMallV1.0版\BLL\obj\Debug\BLL.dll
+F:\asp开发视频\XYTMallV1.0版\BLL\obj\Debug\BLL.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\BLL.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\BLL.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\DAL.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\Model.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\Common.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\DAL.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\Model.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\bin\Debug\Common.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\obj\Debug\BLL.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\BLL\obj\Debug\BLL.pdb

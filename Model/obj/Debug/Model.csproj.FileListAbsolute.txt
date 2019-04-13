@@ -1,0 +1,42 @@
+D:\hichoose\hichoose\Model\bin\Debug\Model.dll
+D:\hichoose\hichoose\Model\bin\Debug\Model.pdb
+D:\hichoose\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\hichoose\hichoose\Model\obj\Debug\Model.dll
+D:\hichoose\hichoose\Model\obj\Debug\Model.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\bin\Debug\Model.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\bin\Debug\Model.pdb
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\obj\Debug\Model.dll
+E:\NetServer\哈秋项目\三层\hichoose\hichoose\Model\obj\Debug\Model.pdb
+E:\HFQ备份\23wan3\hichoose\Model\bin\Debug\Model.dll
+E:\HFQ备份\23wan3\hichoose\Model\bin\Debug\Model.pdb
+E:\HFQ备份\23wan3\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\HFQ备份\23wan3\hichoose\Model\obj\Debug\Model.dll
+E:\HFQ备份\23wan3\hichoose\Model\obj\Debug\Model.pdb
+D:\hichoose\Model\bin\Debug\Model.dll
+D:\hichoose\Model\bin\Debug\Model.pdb
+D:\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\hichoose\Model\obj\Debug\Model.dll
+D:\hichoose\Model\obj\Debug\Model.pdb
+E:\项目\未分类\hichoose\Model\bin\Debug\Model.dll
+E:\项目\未分类\hichoose\Model\bin\Debug\Model.pdb
+E:\项目\未分类\hichoose\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\hichoose\Model\obj\Debug\Model.dll
+E:\项目\未分类\hichoose\Model\obj\Debug\Model.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\bin\Debug\Model.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\bin\Debug\Model.pdb
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\obj\Debug\Model.dll
+F:\工作\源码\更新\6   简单三层购物网站源码\Model\obj\Debug\Model.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\bin\Debug\Model.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\bin\Debug\Model.pdb
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\obj\Debug\Model.dll
+F:\工作\源码\自己搜集的源码\新建文件夹\Model\obj\Debug\Model.pdb
+F:\asp开发视频\SimpleMall\Model\bin\Debug\Model.dll
+F:\asp开发视频\SimpleMall\Model\bin\Debug\Model.pdb
+F:\asp开发视频\SimpleMall\Model\obj\Debug\Model.dll
+F:\asp开发视频\SimpleMall\Model\obj\Debug\Model.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Model\bin\Debug\Model.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Model\bin\Debug\Model.pdb
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Model\obj\Debug\Model.dll
+F:\2018源码审核\1\校园淘网商城\XYTMallV1.0版\Model\obj\Debug\Model.pdb
